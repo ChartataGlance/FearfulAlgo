@@ -1,0 +1,29 @@
+
+body{
+   
+    background: -webkit-linear-gradient(to top, #174c77 0%, #496d8f 70%);
+    background: linear-gradient(to bottom, #6893b6 0%, #6393C1 70%);
+    
+}
+
+
+h1 {
+    
+    
+    font-size: 192px;
+    background: #257eaa;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    white-space: pre;
+    overflow: visible;
+    text-shadow: 1px 1px 1px rgba(252, 252, 252, 0.25);
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Song Myung", serif;
+    letter-spacing: 5.1px;
+    line-height: 1.1;
+    text-transform: capitalize;
+    text-align: center;
+   
+
+  }
